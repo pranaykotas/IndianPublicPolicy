@@ -28,8 +28,8 @@ jobs:
         with:
           r-version: "4.3.0"
 
-      - name: Install R yaml package
-        run: Rscript -e 'install.packages("yaml", repos="https://cran.r-project.org")'
+      - name: Install R packages
+        run: Rscript -e 'install.packages(c("yaml", "knitr", "rmarkdown"), repos="https://cran.r-project.org")'
 
       - name: Render site
         run: quarto render
