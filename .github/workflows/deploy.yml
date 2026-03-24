@@ -26,6 +26,9 @@ jobs:
       - name: Install pyyaml
         run: pip install pyyaml
 
+      - name: Generate project HTML
+        run: python3 _build.py
+
       - name: Render site
         run: quarto render
 
