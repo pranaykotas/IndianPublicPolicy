@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  pre-render: python3 _build.py
 
 website:
   title: "AI for Public Policy Directory"
