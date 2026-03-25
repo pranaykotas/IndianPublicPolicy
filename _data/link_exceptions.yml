@@ -1,0 +1,14 @@
+# URLs to skip during link checking.
+# Add URLs here if they are:
+#   - intentionally behind a login/paywall
+#   - known to block automated requests (rate limiting, bot protection)
+#   - temporarily down but confirmed alive
+#
+# Format: one URL per line under `exceptions:`
+#
+# Example:
+#   exceptions:
+#     - https://example.com/login-required
+#     - https://slow-government-site.gov.in
+
+exceptions: []
