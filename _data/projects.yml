@@ -9,3 +9,9 @@
   description: "Analyze any government scheme to determine if it's genuine welfare policy or a populist freebie using structured criteria"
   url: "https://isitafreebie.jdlabs.top"
   tags: ["welfare", "policy-analysis", "government-schemes", "india"]
+
+- name: "Gazette Tracker"
+  category: "Visualisations"
+  description: "Real-time Indian e-Gazette tracking with AI summaries, full-text search, and instant email alerts for new government notifications."
+  url: "https://gazettetracker.com"
+  tags: ["gazette", "legal", "government", "ai-summaries", "alerts"]
