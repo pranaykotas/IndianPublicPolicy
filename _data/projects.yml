@@ -34,9 +34,15 @@
   url: "https://tagore.ai/"
   tags: ["government-data", "PublicPolicy", "AI Search"]
 
-  
+
 - name: "CSR Insights"
   category: "Analytical Tools"
   description: "Access over 8 years of Corporate Social Responsibility data. Discover how thousands of crores have been spent on social impact projects by companies across different sectors in India."
   url: "https://csr.dataful.in/"
   tags: ["government-data", "PublicPolicy", "CSR"]
+
+- name: "Dravida Model 2026"
+  category: "AI Reports"
+  description: "Evaluates Tamil Nadu's governance model by tracking development promises, project outcomes, and accountability metrics"
+  url: "https://dravidamodel2026.top"
+  tags: ["tamil-nadu", "government-accountability", "development-tracking", "india"]
