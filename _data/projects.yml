@@ -3,3 +3,9 @@
   description: "Track, search, and get AI-powered summaries of Indian Parliamentary Committee reports from all 16 DRSCs across Lok Sabha and Rajya Sabha"
   url: "https://github.com/pranaykotas/parliamentwatch"
   tags: ["parliament", "india", "nlp", "tracking", "open-data"]
+
+- name: "Is It a Freebie?"
+  category: "Analytical Tools"
+  description: "Analyze any government scheme to determine if it's genuine welfare policy or a populist freebie using structured criteria"
+  url: "https://isitafreebie.jdlabs.top"
+  tags: ["welfare", "policy-analysis", "government-schemes", "india"]
