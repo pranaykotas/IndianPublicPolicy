@@ -69,8 +69,12 @@ CONTRIBUTING.md         # Guide for contributors
 
 ## Maintained by
 
-[Takshashila Institution](https://takshashila.org.in)
+[Pranay Kotasthane](https://pranaykotas.com). 
 
 ## License
 
 This directory is open source. The listing of a project here does not imply endorsement.
+
+## Disclaimer
+
+A project's presence on this list doesn't mean that the maintainer endorses the ideas in it. It is merely meant to be a directory. 
