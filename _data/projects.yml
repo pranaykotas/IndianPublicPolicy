@@ -3,3 +3,9 @@
   description: "Track, search, and get AI-powered summaries of Indian Parliamentary Committee reports from all 16 DRSCs across Lok Sabha and Rajya Sabha"
   url: "https://github.com/pranaykotas/parliamentwatch"
   tags: ["parliament", "india", "nlp", "tracking", "open-data"]
+
+- name: "India's Conflicts Escalation Visualisation"
+  category: "Visualisations"
+  description: "Maps India's Military Conflicts Since Independence with every conflict mapped against the escalation ladder — from Tension to Full Limited War — with the military instruments deployed at each level as per the M-RAF 1.0 Framework"
+  url: "https://github.com/pranjalsahai19-commits/MRAF1.0"
+  tags: ["MRAF", "Escalation", "Conflict", "Visualisation"]
