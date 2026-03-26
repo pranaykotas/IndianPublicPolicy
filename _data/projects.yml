@@ -46,3 +46,9 @@
   description: "Evaluates Tamil Nadu's governance model by tracking development promises, project outcomes, and accountability metrics"
   url: "https://dravidamodel2026.top"
   tags: ["tamil-nadu", "government-accountability", "development-tracking", "india"]
+  
+- name: "Reservation Simulator"
+  category: "Other"
+  description: "A narrative simulation exploring India's reservation policy across 200 years and 5 social classes to understand its long-term societal impact"
+  url: "https://reservationsim.jdlabs.top"
+  tags: ["reservation", "policy-simulation", "social-policy", "india"]
