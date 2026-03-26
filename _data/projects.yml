@@ -4,13 +4,12 @@
   url: "https://github.com/pranaykotas/parliamentwatch"
   tags: ["parliament", "india", "nlp", "tracking", "open-data"]
 
-<<<<<<< diwakarss/add-goat-beard
 - name: "Goat Beard"
   category: "AI Reports"
   description: "Quirky name, serious mission — tracks and documents gubernatorial transgressions in India with evidence-backed sourced reports"
   url: "https://goatbeards.jdlabs.top"
   tags: ["accountability", "governance", "evidence-tracking", "india"]
-=======
+
 - name: "Is It a Freebie?"
   category: "Analytical Tools"
   description: "Analyze any government scheme to determine if it's genuine welfare policy or a populist freebie using structured criteria"
@@ -22,4 +21,3 @@
   description: "Real-time Indian e-Gazette tracking with AI summaries, full-text search, and instant email alerts for new government notifications."
   url: "https://gazettetracker.com"
   tags: ["gazette", "legal", "government", "ai-summaries", "alerts"]
->>>>>>> main
