@@ -21,3 +21,22 @@
   description: "Real-time Indian e-Gazette tracking with AI summaries, full-text search, and instant email alerts for new government notifications."
   url: "https://gazettetracker.com"
   tags: ["gazette", "legal", "government", "ai-summaries", "alerts"]
+
+- name: "Dataful"
+  category: "Analytical Tools"
+  description: "Clean & Ready-to-use Datasets on India"
+  url: "https://dataful.in"
+  tags: ["government-data", "PublicPolicy", "public-data"]
+
+- name: "Tagore AI"
+  category: "Analytical Tools"
+  description: "AI-Powered Research Platform Driven by Millions of Official Documents"
+  url: "https://tagore.ai/"
+  tags: ["government-data", "PublicPolicy", "AI Search"]
+
+  
+- name: "CSR Insights"
+  category: "Analytical Tools"
+  description: "Access over 8 years of Corporate Social Responsibility data. Discover how thousands of crores have been spent on social impact projects by companies across different sectors in India."
+  url: "https://csr.dataful.in/"
+  tags: ["government-data", "PublicPolicy", "CSR"]
