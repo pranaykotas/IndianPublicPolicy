@@ -26,23 +26,23 @@
   category: "Analytical Tools"
   description: "Clean & Ready-to-use Datasets on India"
   url: "https://dataful.in"
-  tags: ["government-data", "publicpolicy", "public-data"]
+  tags: ["government-data", "public-policy", "public-data"]
 
 - name: "Tagore AI"
   category: "Analytical Tools"
   description: "AI-Powered Research Platform Driven by Millions of Official Documents"
   url: "https://tagore.ai/"
-  tags: ["government-data", "publicpolicy", "ai-search"]
+  tags: ["government-data", "public-policy", "ai-search"]
 
-  
+
 - name: "CSR Insights"
   category: "Analytical Tools"
   description: "Access over 8 years of Corporate Social Responsibility data. Discover how thousands of crores have been spent on social impact projects by companies across different sectors in India."
   url: "https://csr.dataful.in/"
-  tags: ["government-data", "publicpolicy", "csr"]
+  tags: ["government-data", "public-policy", "csr"]
 
-- name: "India's Digital Payments Frontier"
-  category: "AI Reports"
-  description: "UPI District Adoption from 2018-2024"
-  url: "https://datavis=phonep.netlify.app"
-  tags: ["dpi", "society-data", "upi"]
+- name: "Reservation Simulator"
+  category: "Other"
+  description: "A narrative simulation exploring India's reservation policy across 200 years and 5 social classes to understand its long-term societal impact"
+  url: "https://reservationsim.jdlabs.top"
+  tags: ["reservation", "policy-simulation", "social-policy", "india"]
