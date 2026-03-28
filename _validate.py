@@ -14,6 +14,7 @@ ALLOWED_CATEGORIES = {
     "Analytical Tools",
     "AI Reports",
     "Admin Tools",
+    "Simulations & Games",
     "Other",
 }
 

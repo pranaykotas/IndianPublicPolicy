@@ -30,6 +30,7 @@ Every project belongs to one category. Choose the one that fits best:
 | **Analytical Tools** | Tools others can download and use for their own analysis |
 | **AI Reports** | Data presented accessibly — but not updated live |
 | **Admin Tools** | Tools that help think tanks and research organisations run better |
+| **Simulations & Games** | Policy simulations, serious games, and interactive scenarios |
 | **Other** | Doesn't fit the above? Use this |
 
 Not sure? Pick the closest one — we can always fix it during review.
@@ -64,7 +65,7 @@ Copy this template and fill it in:
 
 **`name`** — The project name. No need to add "AI" or "Tool" at the end.
 
-**`category`** — Must be exactly one of: `Visualisations`, `Analytical Tools`, `AI Reports`, `Admin Tools`, `Other`. Spelling and capitalisation matter.
+**`category`** — Must be exactly one of: `Visualisations`, `Analytical Tools`, `AI Reports`, `Admin Tools`, `Simulations & Games`, `Other`. Spelling and capitalisation matter.
 
 **`description`** — Keep it under 200 characters. Write what it does and who it's for — not what technology it uses.
 - ✅ Good: *"Tracks new regulations across Indian ministries and classifies them by sector."*

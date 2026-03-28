@@ -6,7 +6,7 @@ from pathlib import Path
 with open("_data/projects.yml") as f:
     projects = yaml.safe_load(f)
 
-category_order = ["Visualisations", "Analytical Tools", "AI Reports", "Admin Tools", "Other"]
+category_order = ["Visualisations", "Analytical Tools", "AI Reports", "Admin Tools", "Simulations & Games", "Other"]
 
 grouped = {}
 for p in projects:

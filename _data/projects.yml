@@ -17,7 +17,7 @@
   tags: ["welfare", "policy-analysis", "government-schemes", "india"]
 
 - name: "Gazette Tracker"
-  category: "Visualisations"
+  category: "Analytical Tools"
   description: "Real-time Indian e-Gazette tracking with AI summaries, full-text search, and instant email alerts for new government notifications."
   url: "https://gazettetracker.com"
   tags: ["gazette", "legal", "government", "ai-summaries", "alerts"]
@@ -48,7 +48,7 @@
   tags: ["tamil-nadu", "government-accountability", "development-tracking", "india"]
   
 - name: "Reservation Simulator"
-  category: "Other"
+  category: "Simulations & Games"
   description: "A narrative simulation exploring India's reservation policy across 200 years and 5 social classes to understand its long-term societal impact"
   url: "https://reservationsim.jdlabs.top"
   tags: ["reservation", "policy-simulation", "social-policy", "india"]
