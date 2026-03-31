@@ -52,3 +52,27 @@
   description: "A narrative simulation exploring India's reservation policy across 200 years and 5 social classes to understand its long-term societal impact"
   url: "https://reservationsim.jdlabs.top"
   tags: ["reservation", "policy-simulation", "social-policy", "india"]
+
+- name: "Supply Chains Disruption Analysis"
+  category: "Visualisations"
+  description: "Analysis of how the US–China tariff war, and escalating US–India trade tensions, have reshaped global supply chains — and whether India has capitalised or ceded ground to other countries like Vietnam, Bangladesh and Mexico."
+  url: "https://arithinktank.github.io/supply-chain-analysis/"
+  tags: ["supply-chains", "ai-summaries"]
+
+- name: "Strait of Hormuz Blockade Analysis"
+  category: "Visualisations"
+  description: "Impact of the Strait of Hormuz Blockade on India"
+  url: "https://arithinktank.github.io/West-Asian-War-Analysis/"
+  tags: ["west-asia-war", "iran", "ai-summaries", "strait-of-hormuz-blockade"]
+
+- name: "India Energy Landscape"
+  category: "Analytical Tools"
+  description: "Overview of India's current energy mix, import vulnerabilities, bio-based and clean substitutes, and the roadmap to energy security"
+  url: "https://arithinktank.github.io/india-energy-sources-visualisation/"
+  tags: ["ai-summaries", "energy-chokepoints"]
+
+- name: "West Asia War - A Game Theoretic Analysis"
+  category: "Analytical Tools"
+  description: "A game theoretic analysis of the West Asian war"
+  url: "https://arithinktank.github.io/game-theorise-iran-war/"
+  tags: ["ai-summaries", "west-asia-war", "iran", "game-theory"]
