@@ -76,3 +76,9 @@
   description: "A game theoretic analysis of the West Asian war"
   url: "https://arithinktank.github.io/game-theorise-iran-war/"
   tags: ["ai-summaries", "west-asia-war", "iran", "game-theory"]
+
+- name: "NightPulse"
+  category: "Visualisations"
+  description: "Explore 12 years of NASA satellite nighttime light data across 196 countries and 3,193 regions — a proxy for economic activity, urbanisation, and conflict"
+  url: "https://aniketshevade.in/nightpulse/"
+  tags: ["nighttime-lights", "nasa", "economic-activity", "global", "data-visualisation"]
