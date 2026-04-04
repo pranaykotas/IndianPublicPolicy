@@ -77,6 +77,12 @@
   url: "https://arithinktank.github.io/game-theorise-iran-war/"
   tags: ["ai-summaries", "west-asia-war", "iran", "game-theory"]
 
+- name: "Semiconductor Fab Tracker"
+  category: "Analytical Tools"
+  description: "Track semiconductor fabrication plant announcements, investments, and progress across the globe"
+  url: "https://fabs.pranaykotas.com"
+  tags: ["semiconductors", "geopolitics", "manufacturing", "tracking"]
+
 - name: "NightPulse"
   category: "Visualisations"
   description: "Explore 12 years of NASA satellite nighttime light data across 196 countries and 3,193 regions — a proxy for economic activity, urbanisation, and conflict"
