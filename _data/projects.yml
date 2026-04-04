@@ -81,7 +81,7 @@
   category: "Visualisations"
   description: "Visualizing ILOStat, and Periodic Labor Force Survey (PLFS) data for US and India at National, state and city level."
   url: "https://shahzorkhan123.github.io/metroverse-jobs/"
-  tags: ["government-data", "india", "usa", "labor", "jobs", "data-visualisation", "PLFS", "ILOSTAT", "BLS"]
+  tags: ["government-data", "labor-market-analysis", "jobs", "data-visualisation"]
 
 - name: "Semiconductor Fab Tracker"
   category: "Analytical Tools"
