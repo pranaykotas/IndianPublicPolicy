@@ -100,3 +100,9 @@
   description: "Open-source choropleth map generator for India. Upload a CSV and get publication-ready state or district-level maps with customizable color scales."
   url: "https://bharatviz.org"
   tags: ["india", "data-visualisation", "maps", "open-source", "public-data"]
+
+- name: "MyConstitution"
+  category: "Simulations & Games"
+  description: "Gamified explorer of the Indian Constitution: 457 plain-English articles, 37 Constituent Assembly debate stories, and an 80-question scenario quiz with progress tracking, for students and youth"
+  url: "https://myconstitution.jdlabs.top"
+  tags: ["india", "civic-education", "constitution", "fundamental-rights", "interactive-learning"]
