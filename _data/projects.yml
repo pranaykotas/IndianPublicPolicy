@@ -106,3 +106,9 @@
   description: "Gamified explorer of the Indian Constitution: 457 plain-English articles, 37 Constituent Assembly debate stories, and an 80-question scenario quiz with progress tracking, for students and youth"
   url: "https://myconstitution.jdlabs.top"
   tags: ["india", "civic-education", "constitution", "fundamental-rights", "interactive-learning"]
+
+- name: "policy-wonk-game"
+  category: "Simulations & Games"
+  description: "A laddered quiz-based game that tests your public policy fundamentals."
+  url: "https://policywonkgame.aasifj.com/"
+  tags: ["learning", "education", "public-policy-fundamentals", "interactive-learning"]
