@@ -112,3 +112,9 @@
   description: "A laddered quiz-based game that tests your public policy fundamentals."
   url: "https://policywonkgame.aasifj.com/"
   tags: ["learning", "education", "public-policy-fundamentals", "interactive-learning"]
+
+- name: "Public Policy Frameworks"
+  category: "Analytical Tools"
+  description: "99 public policy frameworks explained in plain language — origin, how to apply, where it breaks down, and sources. Drawn from 300+ editions of Anticipating the Unintended."
+  url: "https://frameworks.pranaykotas.com"
+  tags: ["frameworks", "india", "policy-analysis", "reference", "open-data"]
