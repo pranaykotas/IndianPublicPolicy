@@ -115,6 +115,6 @@
 
 - name: "Public Policy Frameworks"
   category: "Analytical Tools"
-  description: "99 public policy frameworks explained in plain language — origin, how to apply, where it breaks down, and sources. Drawn from 300+ editions of Anticipating the Unintended."
+  description: "99 public policy frameworks explained in plain language. Describe a public policy problem and find relevant frameworks that can help you understand it best."
   url: "https://frameworks.pranaykotas.com"
   tags: ["frameworks", "india", "policy-analysis", "reference", "open-data"]
