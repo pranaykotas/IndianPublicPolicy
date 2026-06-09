@@ -118,3 +118,9 @@
   description: "99 public policy frameworks explained in plain language. Describe a public policy problem and find relevant frameworks that can help you understand it best."
   url: "https://frameworks.pranaykotas.com"
   tags: ["frameworks", "india", "policy-analysis", "reference", "open-data"]
+
+- name: "Takshashila Scholar"
+  category: "Analytical Tools"
+  description: "Takshashila research methods in a browser — 14 tools covering hypothesis development, policy analysis, stakeholder mapping, causal loop analysis, drafting, and review, organised into three guided paths. Zero backend; bring your own API key."
+  url: "https://takshashilainst.github.io/scholar-web/"
+  tags: ["policy-analysis", "research-tools", "india", "ai", "open-source"]
