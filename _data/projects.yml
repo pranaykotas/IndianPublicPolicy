@@ -121,6 +121,6 @@
 
 - name: "Takshashila Scholar"
   category: "Analytical Tools"
-  description: "Takshashila research methods in a browser — 14 tools covering hypothesis development, policy analysis, stakeholder mapping, causal loop analysis, drafting, and review, organised into three guided paths. Zero backend; bring your own API key."
+  description: "Takshashila research methods in a browser — 14 tools covering policy analysis, stakeholder mapping, causal loops, drafting, and review, in three guided paths. Zero backend; bring your own API key."
   url: "https://takshashilainst.github.io/scholar-web/"
   tags: ["policy-analysis", "research-tools", "india", "ai", "open-source"]
