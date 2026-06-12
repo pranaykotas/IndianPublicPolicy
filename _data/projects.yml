@@ -124,3 +124,9 @@
   description: "Takshashila research methods in a browser — 14 tools covering policy analysis, stakeholder mapping, causal loops, drafting, and review, in three guided paths. Zero backend; bring your own API key."
   url: "https://takshashilainst.github.io/scholar-web/"
   tags: ["policy-analysis", "research-tools", "india", "ai", "open-source"]
+
+  - name: "CitizenView"
+  category: "Analytical Tools"
+  description: "Makes Indian parliamentary bills accessible to citizens through plain-language summaries in regional languages, with MP contact tools to enable direct civic engagement."
+  url: "https://app.citizenview.in"
+  tags: ["parliament", "india", "civic-tech", "multilingual", "open-data"]
