@@ -19,7 +19,7 @@ ALLOWED_CATEGORIES = {
 }
 
 MIN_TAGS = 2
-MAX_TAGS = 5
+MAX_TAGS = 8
 MAX_DESCRIPTION_CHARS = 200
 URL_PATTERN = re.compile(r"^https?://[^\s]+$")
 
@@ -101,10 +101,6 @@ for i, p in enumerate(projects):
             for tag in tags:
                 if not isinstance(tag, str) or not tag.strip():
                     fail(i, name, f"each tag must be a non-empty string (found: {tag!r})")
-                elif tag != tag.lower():
-                    fail(i, name, f'tag "{tag}" must be lowercase')
-                elif " " in tag:
-                    fail(i, name, f'tag "{tag}" must use hyphens instead of spaces')
 
     # Duplicate names
     if name:
