@@ -134,5 +134,5 @@
 - name: "Judiciary Entity Map (JEM)"
   category: "Visualisations"
   description: "Open structural map of India's judicial ecosystem, covering courts, tribunals, and regulators. Charts appointment chains, funding flows, case backlog, and independence risk across 1,100+ institutions."
-  url: "https://github.com/dso6060/jem"
+  url: "https://friedso.com/apps/jem"
   tags: ["india", "judiciary", "data-visualisation", "open-data", "governance"]
