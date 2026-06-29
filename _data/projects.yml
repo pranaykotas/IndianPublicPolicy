@@ -125,7 +125,7 @@
   url: "https://takshashilainst.github.io/scholar-web/"
   tags: ["policy-analysis", "research-tools", "india", "ai", "open-source"]
 
-  - name: "CitizenView"
+- name: "CitizenView"
   category: "Analytical Tools"
   description: "Makes Indian parliamentary bills accessible to citizens through plain-language summaries in regional languages, with MP contact tools to enable direct civic engagement."
   url: "https://app.citizenview.in"
