@@ -130,3 +130,9 @@
   description: "Makes Indian parliamentary bills accessible to citizens through plain-language summaries in regional languages, with MP contact tools to enable direct civic engagement."
   url: "https://app.citizenview.in"
   tags: ["parliament", "india", "civic-tech", "multilingual", "open-data"]
+
+- name: "Judiciary Entity Map (JEM)"
+  category: "Visualisations"
+  description: "Open structural map of India's judicial ecosystem, covering courts, tribunals, and regulators. Charts appointment chains, funding flows, case backlog, and independence risk across 1,100+ institutions."
+  url: "https://github.com/dso6060/jem"
+  tags: ["india", "judiciary", "data-visualisation", "open-data", "governance"]
