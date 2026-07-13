@@ -73,7 +73,7 @@ Copy this template and fill it in:
 
 **`url`** — Must start with `https://` or `http://`. Link to the GitHub repo, project website, or documentation.
 
-**`tags`** — 2 to 5 tags, all **lowercase**, with **hyphens** instead of spaces. Browse the [directory homepage](https://aipublicpolicy.org) to see tags already in use.
+**`tags`** — 2 to 8 tags. Browse the [directory homepage](https://aipublicpolicy.org) to see tags already in use.
 
 > **YAML tip:** Indentation matters. Each field must be indented with exactly 2 spaces (not tabs). If in doubt, paste your entry into [yamllint.com](https://www.yamllint.com/) to check before submitting.
 

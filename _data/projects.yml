@@ -125,7 +125,7 @@
   url: "https://takshashilainst.github.io/scholar-web/"
   tags: ["policy-analysis", "research-tools", "india", "ai", "open-source"]
 
-  - name: "CitizenView"
+- name: "CitizenView"
   category: "Analytical Tools"
   description: "Makes Indian parliamentary bills accessible to citizens through plain-language summaries in regional languages, with MP contact tools to enable direct civic engagement."
   url: "https://app.citizenview.in"
@@ -136,3 +136,8 @@
   description: "Track, search, and get AI prediction chart of costs for the common man in Maharashtra if monsoon is delayed in Kharif 2026"
   url: "https://github.com/aditeep30-debug/Kharif-2026-Mah-Agri-Cost-index"
   tags: ["crops", "budget", "yield prediction", "tracking", "open-data", "kharif 2026", "monsoon", "El Nino"]
+- name: "Judiciary Entity Map (JEM)"
+  category: "Visualisations"
+  description: "Open structural map of India's judicial ecosystem, covering courts, tribunals, and regulators. Charts appointment chains, funding flows, case backlog, and independence risk across 1,100+ institutions."
+  url: "https://friedso.com/apps/jem"
+  tags: ["india", "judiciary", "data-visualisation", "open-data", "governance"]
