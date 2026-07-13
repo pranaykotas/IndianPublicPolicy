@@ -131,11 +131,12 @@
   url: "https://app.citizenview.in"
   tags: ["parliament", "india", "civic-tech", "multilingual", "open-data"]
 
-  - name: "Mah-Agro-Price-Index"
-  category: "Visualization"
+- name: "Mah-Agro-Price-Index"
+  category: "Visualisations"
   description: "Track, search, and get AI prediction chart of costs for the common man in Maharashtra if monsoon is delayed in Kharif 2026"
   url: "https://github.com/aditeep30-debug/Kharif-2026-Mah-Agri-Cost-index"
   tags: ["crops", "budget", "yield prediction", "tracking", "open-data", "kharif 2026", "monsoon", "El Nino"]
+
 - name: "Judiciary Entity Map (JEM)"
   category: "Visualisations"
   description: "Open structural map of India's judicial ecosystem, covering courts, tribunals, and regulators. Charts appointment chains, funding flows, case backlog, and independence risk across 1,100+ institutions."
