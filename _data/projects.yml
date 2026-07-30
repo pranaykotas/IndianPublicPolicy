@@ -142,3 +142,9 @@
   description: "Open structural map of India's judicial ecosystem, covering courts, tribunals, and regulators. Charts appointment chains, funding flows, case backlog, and independence risk across 1,100+ institutions."
   url: "https://friedso.com/apps/jem"
   tags: ["india", "judiciary", "data-visualisation", "open-data", "governance"]
+
+- name: "Air Quality Network Evaluation & Siting Tool (AQ-NEST)"
+  category: "Analytical Tools"
+  description: "This tool calculates minimum air quality monitors required in a defined area and evaluates the monitor network coverage"
+  url: "https://urbanemissionsinfo.github.io/AQNEST/"
+  tags: ["india", "air", "environment", "civic-tech"]
