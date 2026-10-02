@@ -148,3 +148,9 @@
   description: "This tool calculates minimum air quality monitors required in a defined area and evaluates the monitor network coverage"
   url: "https://urbanemissionsinfo.github.io/AQNEST/"
   tags: ["india", "air", "environment", "civic-tech"]
+
+- name: "commoner-probe"
+  category: "Analytical Tools"
+  description: "Acquisition library for India's public disclosures — parliamentary Q&A, committee reports, bills, debates, and budgets — turned into clean, schema-validated data for research."
+  url: "https://github.com/CommonerLLP/commoner-probe"
+  tags: ["parliament", "india", "open-data", "government-data", "public-policy"]
