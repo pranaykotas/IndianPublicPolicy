@@ -149,6 +149,30 @@
   url: "https://urbanemissionsinfo.github.io/AQNEST/"
   tags: ["india", "air", "environment", "civic-tech"]
 
+- name: "bharatlas"
+  category: "Analytical Tools"
+  description: "India's open atlas: 100+ map layers from state to village and city wards, plus rivers, forests, groundwater and floods. Slice and download any layer, or query it from AI tools."
+  url: "https://bharatlas.com"
+  tags: ["india", "maps", "open-data", "government-data", "urban", "mcp"]
+
+- name: "Mugilu"
+  category: "Visualisations"
+  description: "Live air quality, heat stress, crop-burn smoke and official NDMA/IMD warnings for any place in India, with pollutant breakdowns and years of life lost. Searchable in Indian languages."
+  url: "https://mugilu.live"
+  tags: ["india", "air-quality", "climate", "heat", "open-data", "multilingual", "mcp"]
+
+- name: "Irrational"
+  category: "Analytical Tools"
+  description: "Audits a decision for 22 cognitive biases: describe your choice and get an adversarial prompt that argues the other side, run by your own AI. Useful for stress-testing policy calls."
+  url: "https://irrational.pages.dev"
+  tags: ["policy-analysis", "decision-making", "cognitive-bias", "research-tools", "open-source", "mcp"]
+
+- name: "mdshare"
+  category: "Admin Tools"
+  description: "Share and co-edit markdown drafts by link, with inline comments, live sync and instant revocation. Works from the browser, Obsidian, VS Code or AI assistants. Free, no login."
+  url: "https://mdshare.live"
+  tags: ["collaboration", "writing", "research-tools", "open-source", "mcp"]
+  
 - name: "commoner-probe"
   category: "Analytical Tools"
   description: "Acquisition library for India's public disclosures — parliamentary Q&A, committee reports, bills, debates, and budgets — turned into clean, schema-validated data for research."
