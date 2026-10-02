@@ -149,6 +149,71 @@
   url: "https://urbanemissionsinfo.github.io/AQNEST/"
   tags: ["india", "air", "environment", "civic-tech"]
 
+- name: "Where India's Food Goes"
+  category: "AI Reports"
+  description: "Follows India's food from farm to plate: a tenth of it is wasted, farmers keep about a third of the retail price, and owning the supply chain does not protect soil or aquifers."
+  url: "https://same-heap.surge.sh"
+  tags: ["india", "agriculture", "food", "supply-chains", "government-data"]
+
+- name: "Upwind"
+  category: "AI Reports"
+  description: "Only 30% of Delhi's winter air pollution is its own. Seven of the 11 coal plants within 300 km are exempt from sulphur controls, and six of those sit upwind. Every figure is sourced."
+  url: "https://upwind.surge.sh"
+  tags: ["india", "air", "delhi", "energy", "environment", "government-data"]
+
+- name: "Influence the Rule, Not the Bird"
+  category: "AI Reports"
+  description: "An explainer on using emergence to steer collective action on air, water, soil, forests and energy: money and effort add speed, but only changing the rules changes direction."
+  url: "https://not-the-bird.surge.sh"
+  tags: ["commons", "governance", "environment", "public-policy"]
+
+- name: "The Question They Made Optional"
+  category: "AI Reports"
+  description: "786 of India's biggest listed companies operate beside a forest, wetland or coast, but only 33 disclosed what they do there, because the nature disclosure question was optional."
+  url: "https://made-optional.surge.sh"
+  tags: ["india", "biodiversity", "corporate-disclosure", "esg", "regulation"]
+
+- name: "The Best-Measured Soil in the World"
+  category: "AI Reports"
+  description: "India has tested over 5 million soil samples, 12 readings each. More than half are low on carbon, and there is no independent dataset to check the readings against."
+  url: "https://dead-reckoning.surge.sh"
+  tags: ["india", "agriculture", "soil", "government-data", "data-quality"]
+
+- name: "The Register No One Reads"
+  category: "AI Reports"
+  description: "India built 2.72 lakh People's Biodiversity Registers to put villages in charge of local nature. Two have been formally approved."
+  url: "https://pbr-story.surge.sh"
+  tags: ["india", "biodiversity", "governance", "local-government"]
+
+- name: "The Ground Beneath the Report Card"
+  category: "AI Reports"
+  description: "India grades 2.6 lakh villages on how they are doing today, not whether they can last. Its showcase grain belt is also draining its groundwater the fastest."
+  url: "https://canitlast.surge.sh"
+  tags: ["india", "rural", "sustainability", "groundwater", "government-data"]
+
+- name: "The Uncounted"
+  category: "AI Reports"
+  description: "India logs over 100,000 human-wildlife conflict incidents a year across 88 species, yet keeps a national death count for just two."
+  url: "https://the-uncounted.surge.sh"
+  tags: ["india", "wildlife", "human-wildlife-conflict", "government-data"]
+
+- name: "Whose Forest Is It?"
+  category: "AI Reports"
+  description: "India has mapped 3.46 crore hectares of community forest that local communities could govern under the Forest Rights Act. Less than 3% has been recognised."
+  url: "https://whose-forest.surge.sh"
+  tags: ["india", "forests", "forest-rights", "tribal-rights", "governance"]
+
+- name: "The Hollow Collective"
+  category: "AI Reports"
+  description: "India helped small farmers form nearly 50,000 Farmer Producer Organisations they own together. Just 4% employ even one paid manager."
+  url: "https://fpo-story.surge.sh"
+  tags: ["india", "agriculture", "fpo", "farmers", "government-data"]
+
+- name: "The Ground They Stand On"
+  category: "AI Reports"
+  description: "India's self-help groups reach 9 crore women in 8.6 million groups, the world's largest financial-inclusion effort. Even the best-served state leaves 71% stuck at saving, never reaching credit."
+  url: "https://shg-story.surge.sh"
+  tags: ["india", "women", "livelihoods", "financial-inclusion", "shg"]
 - name: "bharatlas"
   category: "Analytical Tools"
   description: "India's open atlas: 100+ map layers from state to village and city wards, plus rivers, forests, groundwater and floods. Slice and download any layer, or query it from AI tools."
