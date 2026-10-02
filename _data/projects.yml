@@ -172,3 +172,9 @@
   description: "Share and co-edit markdown drafts by link, with inline comments, live sync and instant revocation. Works from the browser, Obsidian, VS Code or AI assistants. Free, no login."
   url: "https://mdshare.live"
   tags: ["collaboration", "writing", "research-tools", "open-source", "mcp"]
+  
+- name: "commoner-probe"
+  category: "Analytical Tools"
+  description: "Acquisition library for India's public disclosures — parliamentary Q&A, committee reports, bills, debates, and budgets — turned into clean, schema-validated data for research."
+  url: "https://github.com/CommonerLLP/commoner-probe"
+  tags: ["parliament", "india", "open-data", "government-data", "public-policy"]
