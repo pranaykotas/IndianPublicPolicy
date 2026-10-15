@@ -243,3 +243,21 @@
   description: "Acquisition library for India's public disclosures — parliamentary Q&A, committee reports, bills, debates, and budgets — turned into clean, schema-validated data for research."
   url: "https://github.com/CommonerLLP/commoner-probe"
   tags: ["parliament", "india", "open-data", "government-data", "public-policy"]
+
+- name: "State Stats"
+  category: "Visualisations"
+  description: "Every indicator on StateStats, with the unit it is reported in, the official source it comes from, and how it behaves when you compare several states at once."
+  url: "https://statestats.dataful.in/"
+  tags: ["Visualisation", "PublicPolicy", "government-data", "states-of-india" ]
+
+- name: "India Data Dictionary"
+  category: "Analytical Tools"
+  description: "The Open-Source Data Dictionary to standardize your data pipelines with verified schemas for sectoral datasets. Access metadata, types, and constraints in one unified index."
+  url: "https://dictionary.dataful.in/"
+  tags: ["government-data", "PublicPolicy", "public-data"]
+
+- name: "NCRB-Crimes in Districts"
+  category: "Analytical Tools"
+  description: "NCRB's Crime in India reports into clean district-level datasets, with every police reporting unit tagged by type and every district mapped to its LGD code."
+  url: "https://distcrimes.dataful.in/"
+  tags: ["government-data", "PublicPolicy", "ncrb", "crimes-in-india","crimes-by-district"]
