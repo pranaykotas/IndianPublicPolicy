@@ -243,3 +243,15 @@
   description: "Acquisition library for India's public disclosures — parliamentary Q&A, committee reports, bills, debates, and budgets — turned into clean, schema-validated data for research."
   url: "https://github.com/CommonerLLP/commoner-probe"
   tags: ["parliament", "india", "open-data", "government-data", "public-policy"]
+
+- name: "yellide"
+  category: "Analytical Tools"
+  description: "Every species documented from India, by state and biogeographic region: which have an open record, which are threatened on the IUCN Red List, and which are newly described. Queryable from AI tools."
+  url: "https://yellide.com"
+  tags: ["india", "biodiversity", "conservation", "environment", "open-data", "mcp"]
+
+- name: "The Schemes Register"
+  category: "Analytical Tools"
+  description: "10,493 Indian government schemes from four national sources and sixteen state budget books, side by side: what each source publishes and what it leaves out."
+  url: "https://india-schemes.pages.dev"
+  tags: ["india", "government-schemes", "welfare", "budgets", "open-data", "accountability"]
