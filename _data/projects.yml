@@ -255,3 +255,21 @@
   description: "10,493 Indian government schemes from four national sources and sixteen state budget books, side by side: what each source publishes and what it leaves out."
   url: "https://india-schemes.pages.dev"
   tags: ["india", "government-schemes", "welfare", "budgets", "open-data", "accountability"]
+
+- name: "Land Ledger"
+  category: "AI Reports"
+  description: "One map of India's districts joining seven stories on soil, water, food and farmers: nutrient balances, irrigation water use and water-table trends, with the uncertainty shown."
+  url: "https://land-ledger.surge.sh"
+  tags: ["india", "agriculture", "soil", "groundwater", "maps", "government-data"]
+
+- name: "The Bill Arrives on Time"
+  category: "AI Reports"
+  description: "El Niño is the one climate shock India sees coming months ahead, yet the bill arrives in full: 77 years of monsoon rain, a state leaderboard, and the 2026 crop bill of about ₹1.1 lakh crore."
+  url: "https://el-nino.surge.sh"
+  tags: ["india", "climate", "monsoon", "agriculture", "drought", "government-data"]
+
+- name: "The Overlooked Species"
+  category: "AI Reports"
+  description: "India has 6.38 crore public biodiversity records, and 96% are of birds, though birds are 1,633 of its 49,398 recorded species. Shows which life India records and which it leaves out."
+  url: "https://overlooked-species.surge.sh"
+  tags: ["india", "biodiversity", "conservation", "open-data", "environment"]
